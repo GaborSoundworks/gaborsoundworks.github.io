@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: gaborsoundworks.github.io
-Token: 3a31aa92fe964cc264c6c66648525e1dd26e465249c55ab8ceb25dc167e5deb2
